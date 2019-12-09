@@ -6,7 +6,7 @@ namespace GameTOP.Lib
     {
         public string Chuta()
         {
-            return "teste Chuta";
+            return "teste Chuta"; 
         }
 
         public string Corre()
